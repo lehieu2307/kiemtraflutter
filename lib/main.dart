@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter News',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        backgroundColor: Colors.white,
+        backgroundColor: Colors.blueGrey,
         primaryColor: Color(0xFF00A6E4),
         buttonTheme: ButtonThemeData(
           buttonColor: Color(0xFF0E2656),
